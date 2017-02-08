@@ -12,7 +12,6 @@ public class ServerMain {
 
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext( new String[] { "applicationProvider.xml" });
         context.start();
-
         System.out.println("输入任意按键退出 ~ ");
         System.in.read();
         context.close();

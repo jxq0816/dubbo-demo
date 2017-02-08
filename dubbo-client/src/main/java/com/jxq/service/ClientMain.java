@@ -10,7 +10,7 @@ public class ClientMain {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
                 new String[] { "applicationConsumer.xml" });
         context.start();
-        DubboService service = (DubboService) context.getBean("dubboService");
+        DubboService service = (DubboService) context.getBean("demoService");
         System.out.println(service.sayHello("world"));
         context.close();
     }
