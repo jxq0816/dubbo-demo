@@ -36,18 +36,18 @@
 
         <!-- 注册中心zookeeper end -->
 
-        <!-- log begin -->
-        <dependency>
-            <groupId>commons-logging</groupId>
-            <artifactId>commons-logging</artifactId>
-            <version>1.1.1</version>
-        </dependency>
-        <!-- other begin -->
+        <!-- The Netty project is an effort to provide an asynchronous event-driven network application framework
+        and tools for rapid development of maintainable high performance and high scalability protocol servers and clients.
+        In other words, Netty is a NIO client server framework which enables quick and easy development of network applications
+         such as protocol servers and clients.
+         It greatly simplifies and streamlines network programming such as TCP and UDP socket server.
+        -->
         <dependency>
             <groupId>org.jboss.netty</groupId>
             <artifactId>netty</artifactId>
             <version>3.2.0.Final</version>
         </dependency>
+        <!--A zookeeper client, that makes life a little easier.-->
         <dependency>
             <groupId>com.101tec</groupId>
             <artifactId>zkclient</artifactId>

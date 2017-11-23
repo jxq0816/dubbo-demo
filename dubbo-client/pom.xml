@@ -42,6 +42,7 @@
             <artifactId>zkclient</artifactId>
             <version>0.8</version>
         </dependency>
+        <!-- dubbo server端-->
         <dependency>
             <groupId>dubbo</groupId>
             <artifactId>dubbo-server</artifactId>
