@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d96dbd3a-1721-4bba-899c-521ded8caa1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_8.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_0_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_2_5_6_SEC03.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterPath="" />
@@ -16,12 +18,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-client/pom.xml" afterPath="$PROJECT_DIR$/dubbo-client/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-server/pom.xml" afterPath="$PROJECT_DIR$/dubbo-server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubboDemo.iml" afterPath="$PROJECT_DIR$/dubboDemo.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="dubboDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/dubbo-client/src/main/java/com/jxq/service/ClientMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -230,86 +231,6 @@
             <path>
               <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jxq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jxq" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -832,7 +753,7 @@
       <workItem from="1511181469766" duration="833000" />
       <workItem from="1511269929635" duration="95000" />
       <workItem from="1511433094478" duration="2308000" />
-      <workItem from="1511438279010" duration="10496000" />
+      <workItem from="1511438279010" duration="10542000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1511434784570</created>
@@ -855,11 +776,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511453765118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jar包更新">
+      <created>1511456169880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511456169880</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19241000" />
+    <option name="totallyTimeSpent" value="19287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1152,7 +1080,7 @@
     <entry file="file://$PROJECT_DIR$/dubbo-client/src/main/java/com/jxq/service/ClientMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
