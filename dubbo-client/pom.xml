@@ -26,38 +26,15 @@
         <!-- dubbo end -->
 
         <!-- 注册中心zookeeper begin -->
+        <!-- https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper -->
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
-            <version>3.3.6</version>
+            <version>3.5.3-beta</version>
+            <type>pom</type>
         </dependency>
-        <!-- 注册中心zookeeper end -->
 
-        <!-- log begin -->
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.15</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>com.sun.jdmk</groupId>
-                    <artifactId>jmxtools</artifactId>
-                </exclusion>
-                <exclusion>
-                    <groupId>com.sun.jmx</groupId>
-                    <artifactId>jmxri</artifactId>
-                </exclusion>
-                <exclusion>
-                    <artifactId>jms</artifactId>
-                    <groupId>javax.jms</groupId>
-                </exclusion>
-                <exclusion>
-                    <artifactId>mail</artifactId>
-                    <groupId>javax.mail</groupId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-        <!-- log end -->
+        <!-- 注册中心zookeeper end -->
 
         <!-- other begin -->
         <dependency>
