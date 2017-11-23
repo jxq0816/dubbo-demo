@@ -3,7 +3,7 @@ package com.jxq.service;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Created by boxiaotong on 2017/2/8.
+ * Created by jiangxingqi on 2017/2/8.
  */
 public class ClientMain {
     public static void main(String[] args) {
